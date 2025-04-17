@@ -49,7 +49,6 @@ def plot_roc_curve(y_true, y_prob):
     st.pyplot(plt)
 
 # Streamlit UI
-st.write("FATU RAHMAT A11.2022.14831 NLP-A11.4617")
 st.title("Sentiment Analysis of Tweets Fufufafa Using Naive Bayes Algorithm")
 st.write("Input text (Positive, Neutral, or Negative).")
 
